@@ -1,1 +1,3 @@
-# Template ReactJS com Ts + padronização de código
+# Github Explorer
+
+Aplicação em ReactJS utilizando a API do Github
