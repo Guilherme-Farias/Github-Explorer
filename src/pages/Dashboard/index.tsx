@@ -59,7 +59,7 @@ const Dashboard: React.FC = () => {
 
   return (
     <>
-      <img src={logoImg} alt="Github Explorer logo" />
+      <img src={logoImg} alt="Logo Github Explorer" />
       <Title>Explore repositórios no Github.</Title>
       <Form hasError={!!inputError} onSubmit={handleAddRepository}>
         <input
