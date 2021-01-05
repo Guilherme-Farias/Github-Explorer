@@ -37,7 +37,7 @@
 
 ## :rocket: Tecnologias
 
-This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) com as seguintes tecnologias:
 
 -  [Typescript](https://www.typescriptlang.org/)
 -  [ReactJS](https://reactjs.org/)
