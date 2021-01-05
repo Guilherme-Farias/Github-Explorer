@@ -45,7 +45,7 @@ Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketsea
 -  [styled-components](https://www.styled-components.com/)
 -  [react-icons](https://react-icons.github.io/react-icons/)
 -  [react-router](https://reactrouter.com/web/guides/quick-start)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+-  [VS Code][vc] com [EditorConfig][vceditconfig] e [ESLint][vceslint]
 
 ## :information_source: Como usar
 
